@@ -38,4 +38,3 @@ The dataset includes:
 ## Author
 **Aman Rukhsar**  
 GitHub: [Whirls19](https://github.com/Whirls19)  
-Bachelor of Computer Applications | Data Analyst in Training
